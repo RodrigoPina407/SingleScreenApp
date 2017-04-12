@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SingleScreenApp</string>
+    <string name="Address">Address: 123 FakeStreet, FakeCity</string>
+    <string name="email">Email: fakerecordsstore@records.com</string>
+    <string name="contact_information">Contact Information:</string>
+    <string name="phone">Phone Number: 919999999</string>
+    <string name="hours">Working Hours: 7:30 AM - 7:30 PM, Closed on Weekends</string>
+    <string name="what_we_do">What we do: We sell CD\'S, Vynils, Tapes of every kind of music you could think of. You can come visit us at our store or order from our website.</string>
+</resources>
